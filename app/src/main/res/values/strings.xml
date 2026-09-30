@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App & Identity -->
+    <string name="app_name">Exame Master</string>
+    <string name="app_tagline">Prepare-se. Pratique. Supere o exame.</string>
+    <string name="app_subtitle">Plataforma de preparação para exames de admissão às universidades de Moçambique</string>
+
+    <!-- Navigation & Titles -->
+    <string name="title_login">Entrar</string>
+    <string name="title_register">Criar Conta</string>
+    <string name="title_home">Página Inicial</string>
+    <string name="title_universities">Universidades</string>
+    <string name="title_courses">Cursos</string>
+    <string name="title_subjects">Disciplinas</string>
+    <string name="title_exams">Exames Anteriores</string>
+    <string name="title_quiz">Resolução de Questões</string>
+    <string name="title_timed_quiz">Simulado Cronometrado</string>
+    <string name="title_exam_result">Resultado do Exame</string>
+    <string name="title_manuals">Manuais de Estudo</string>
+    <string name="title_manual_detail">Manual de Estudo</string>
+    <string name="title_video_lessons">Videoaulas</string>
+    <string name="title_profile">Perfil do Estudante</string>
+    <string name="title_performance_history">Histórico de Desempenho</string>
+
+    <!-- Home Cards -->
+    <string name="card_study">Estudar</string>
+    <string name="card_study_desc">Pratique com questões interactivas e feedback imediato</string>
+    <string name="card_exams">Exames anteriores</string>
+    <string name="card_exams_desc">Provas dos anos anteriores (UEM, UP, UJC, etc.)</string>
+    <string name="card_simulated">Simulados</string>
+    <string name="card_simulated_desc">Testes com cronómetro e nota final</string>
+    <string name="card_manuals">Manuais</string>
+    <string name="card_manuals_desc">Biblioteca de resumos, fórmulas e teoria</string>
+    <string name="card_video_lessons">Videoaulas</string>
+    <string name="card_video_lessons_desc">Resolução comentada em vídeo</string>
+    <string name="card_performance">Meu desempenho</string>
+    <string name="card_performance_desc">Estatísticas, áreas fracas e evolução</string>
+
+    <!-- Quiz & Feedback Strings (Mandated by Prompt) -->
+    <string name="feedback_correct">✓ Resposta correcta</string>
+    <string name="feedback_incorrect">✗ Resposta incorrecta</string>
+    <string name="btn_confirm_answer">Confirmar resposta</string>
+    <string name="btn_next_question">Próxima questão</string>
+    <string name="btn_finish_quiz">Finalizar exame</string>
+    <string name="btn_view_text_explanation">Ver explicação em texto</string>
+    <string name="btn_view_video_explanation">Assistir à explicação em vídeo</string>
+    <string name="label_correct_answer">Resposta correcta: Alternativa %s</string>
+
+    <!-- Results Section (Mandated by Prompt) -->
+    <string name="label_score_title">PONTUAÇÃO</string>
+    <string name="label_attention_areas">Áreas que precisam de atenção</string>
+    <string name="label_correct_count">Respostas correctas</string>
+    <string name="label_incorrect_count">Respostas erradas</string>
+    <string name="label_unanswered_count">Não respondidas</string>
+    <string name="label_time_spent">Tempo utilizado</string>
+    <string name="label_avg_time_per_question">Média por questão</string>
+
+    <!-- Common UI Labels -->
+    <string name="label_demo_badge">Demo</string>
+    <string name="label_select_university">Universidade escolhida</string>
+    <string name="label_select_course">Curso escolhido</string>
+    <string name="label_student_progress">Progresso do estudante</string>
+    <string name="label_last_result">Último resultado</string>
+    <string name="btn_change">Alterar</string>
+    <string name="btn_continue">Continuar</string>
+    <string name="btn_retry">Tentar novamente</string>
+    <string name="btn_back_home">Voltar à Página Inicial</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary">#0D47A1</color>
+    <color name="primary_dark">#082E6B</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="accent">#FF6F00</color>
+    <color name="accent_light">#FFF3E0</color>
+
+    <!-- Semantic Feedback Colors -->
+    <color name="success">#2E7D32</color>
+    <color name="success_light">#E8F5E9</color>
+    <color name="success_border">#81C784</color>
+    <color name="error">#C62828</color>
+    <color name="error_light">#FFEBEE</color>
+    <color name="error_border">#E57373</color>
+    <color name="warning">#EF6C00</color>
+    <color name="warning_light">#FFF8E1</color>
+
+    <!-- Neutral Colors -->
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F3F5</color>
+    <color name="text_primary">#1A1D20</color>
+    <color name="text_secondary">#5F6368</color>
+    <color name="text_hint">#9AA0A6</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="card_stroke">#E5E7EB</color>
+
+    <!-- Options State Colors -->
+    <color name="option_default_bg">#FFFFFF</color>
+    <color name="option_default_stroke">#D1D5DB</color>
+    <color name="option_selected_bg">#E8F0FE</color>
+    <color name="option_selected_stroke">#1A73E8</color>
+</resources>

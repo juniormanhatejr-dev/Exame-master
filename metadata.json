@@ -1,6 +1,6 @@
 {
   "name": "Exame Master",
-  "description": "Plataforma Android nativa em Java de preparação para exames de admissão às universidades de Moçambique (UEM, UP, UJC, UniLicungo, UniPúnguè, etc.)",
+  "description": "Plataforma de preparação para exames de admissão às universidades de Moçambique (UEM, UP, UniZambeze, UniLúrio, UJC, ISRI) com provas oficiais resolvidas, manuais e videoaulas docentes.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
